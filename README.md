@@ -38,13 +38,32 @@ The Black Friday Sales Analysis delves into the wealth of data generated during 
 
 - **Age Category 26 to 35 Dominates Purchases:** Analysis revealed that the age category 26 to 35 constitutes the highest proportion of purchases during Black Friday sales, indicating a significant target demographic for retailers.
   
-  ![Age Category Distribution]("C:\Users\balaj\OneDrive\Pictures\Screenshots\new screenshot.png")
+  ![Age Category Distribution](https://github.com/SrivatsanKB/Intel-oneAPI/blob/main/Balck%20friday%20insight.png)
 
 - **Gender Distribution:** Approximately 77% of purchases were made by men, while only 23% were made by women, indicating a notable gender disparity in Black Friday sales participation.
-  
-## Significance of using Intel OneAPI
 
-The integration of Intel OneAPI into our data analysis pipeline played a crucial role in enhancing performance and efficiency. Leveraging Intel OneAPI tools and libraries accelerated computations, ensuring timely insights generation and optimization. The unified programming model offered by Intel OneAPI simplified the development process, enabling seamless integration and resource utilization across heterogeneous architectures. Overall, Intel OneAPI significantly contributed to improving the speed, performance, and ease of conducting Black Friday sales analysis.
+## Intel OneAPI Integration
+
+### Introduction
+
+Our Black Friday Sales Analysis project was greatly enhanced by the integration of Intel OneAPI, a comprehensive suite of development tools and libraries designed to accelerate application performance across diverse hardware architectures. In this section, we'll explore how Intel OneAPI empowered our analysis, optimized our performance, and facilitated seamless integration with heterogeneous computing resources.
+
+### Accelerated Computations
+
+Intel OneAPI provided us with optimized libraries and tools tailored for high-performance computing, including mathematical computations, data analytics, and machine learning. By leveraging these libraries such as Intel oneMKL and Intel oneDAL, we experienced accelerated computations during data processing and analysis. This acceleration ensured swift insights generation from our extensive Black Friday sales dataset, enabling retailers to make data-driven decisions in real-time.
+
+### Unified Programming Model
+
+One of the key advantages of Intel OneAPI is its unified programming model, which enables developers to write code that can seamlessly execute across diverse hardware architectures, including CPUs, GPUs, FPGAs, and AI accelerators. This unified approach simplified our development process, allowing us to write code once and deploy it across multiple hardware targets without the need for extensive modification. As a result, we were able to streamline our analysis pipeline and maximize resource utilization across heterogeneous computing environments.
+
+### Optimized Performance
+
+Intel OneAPI incorporates advanced compiler optimizations and hardware-specific optimizations that are tuned to leverage the features and capabilities of Intel architectures. These optimizations collectively contributed to improving the performance and efficiency of our data analysis pipeline. By harnessing the full potential of Intel hardware, we were able to achieve significant speedups in computations and reduce the time required for insights generation, ultimately enhancing the overall efficiency of our analysis.
+![Intel Collaboration](https://github.com/SrivatsanKB/Intel-oneAPI/blob/main/OneAPI%20requirements.png)
+
+### Scalability and Flexibility
+
+The scalability and flexibility offered by Intel OneAPI were instrumental in enabling us to handle large volumes of data and scale our analysis to meet the demands of our project. Whether it was processing massive datasets, performing complex computations, or deploying sophisticated machine learning models, Intel OneAPI provided us with the scalability and flexibility we needed to tackle the challenges of our analysis effectively. This scalability ensured that our analysis pipeline could adapt to changing requirements and handle increasing data volumes without compromising performance or efficiency.
 
 ## Future Enhancements 🚀
 
